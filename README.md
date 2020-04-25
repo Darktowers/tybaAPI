@@ -1,6 +1,6 @@
 
 # Express TypeScript Boilerplate 
-#### 1. Install Docker and mongoDB
+#### 1. Install Docker
 #### 2. Install dependencies
 ```
 $ npm i
